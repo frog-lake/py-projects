@@ -1,5 +1,5 @@
 """
-practice flask web application using materials from https://runestone.academy/runestone/books/published/thinkcspy/index.html
+practice flask web application using materials adapted from chapter 14 of https://runestone.academy/runestone/books/published/thinkcspy/index.html
 """
 from flask import Flask, request
 from datetime import datetime

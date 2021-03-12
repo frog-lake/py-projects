@@ -1,3 +1,7 @@
+# code referenced from here: https://realpython.com/pygame-a-primer/
+
+# currently unfinished attempt at a game in pygame
+
 # simple pygame program
 
 # import and init the pygame library
